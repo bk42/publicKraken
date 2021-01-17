@@ -1,7 +1,7 @@
 so text much master
 
 branch1 input
-cflict here
+conflict here too
 branch2 input
 
 main geht auch noch vorwärts. und immer weiter
