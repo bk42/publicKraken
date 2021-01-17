@@ -1,6 +1,6 @@
 so text much master
 
-
+branch1 input
 
 branch2 input
 
